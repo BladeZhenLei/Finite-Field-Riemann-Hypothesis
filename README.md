@@ -53,5 +53,9 @@ where $N_$ is the number of closed paths in $X$ of length $m$ with no backtracki
 
 As of now, it remains to be a mystery whether this zeta function have a special meaning.
 
+## Quantum Chaos
+The study of spacing of the non-trivial Riemann Zeta zeros is a GUE emsemble. 
+
+
 <p/>
 <script type="text/javascript" charset="utf-8" src=" https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML, https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
