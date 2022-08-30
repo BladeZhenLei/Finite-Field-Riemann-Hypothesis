@@ -13,7 +13,7 @@ A $prime$ in $X$ is an equivalence class $[C]$ of prime paths, the path length i
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/187326050-c8d93df8-d35c-4b4f-a9e4-c5ef29b08945.png" width="200" height="180"> <p/>
 <p align="center"> Arbitrary orientation for $(e_1,e_2,e_3,e_4,e_5)$ </p>
 
-The Ihara zeta function is computed by the product over the equivalence class of prime paths. In Fig.1, some examples of primes are $[C]=\lbrace{e_2}{e_3}{e_5}\rbrace,$ $[D]=\lbrace{e_1}{e_2}{e_3}{e_4}\rbrace,$ and $[E]=\lbrace{e_1}{e_2}{e_3}{e_4}{e_1}{e_{10}}{e_4}\rbrace.$
+The Ihara zeta function is computed by the product over the equivalence class of prime paths. Some examples of primes are $[C]=\lbrace{e_2}{e_3}{e_5}\rbrace,$ $[D]=\lbrace{e_1}{e_2}{e_3}{e_4}\rbrace,$ and $[E]=\lbrace{e_1}{e_2}{e_3}{e_4}{e_1}{e_{10}}{e_4}\rbrace.$
 Here, $e_10={e_5}^{-1} is the backtracking, the path lengths are $v(C)=3$, $v(D)=4$, $v(E)=7$, respectively. In this case, there are infinitely many primes.
 
 ### Zeta Function of Graphs
@@ -31,16 +31,13 @@ Friedman proved that a random regular graph is almost Ramanujan. After that, Mil
 
 The complete graph $K_n$ is a Ramanujan graph, its adjacency matrix has the characteristic polynomial
 $$(\lambda-(n-1))(\lambda+1))^{n-1}.$$
-The verification of the above case [3] involves computation of circulant matrix.
+The verification of the above case involves computation of circulant matrix.
 Consider the Peterson graph, which has
 $$(\lambda-3)(\lambda+2)^4(\lambda-1)^5,$$
 one can easily check that
 $$2\leq2\sqrt{2}.$$
 
-A random k-regular graph has 
-$$\lambda_{2}\leq{2\sqrt{(k-1)}+2log(k)+O(1)}.$$
-
-The above theorems give precise measurement of the graphs in terms of the eigenvalue function and show that statistically the Ramanujan graphs will have small diameters.
+A random k-regular graph has $\lambda_{2}\leq{2\sqrt{(k-1)}+2log(k)+O(1)}.$ This gives the precise measurement of the graphs in terms of the eigenvalue function and show that statistically the Ramanujan graphs will have small diameters.
 
 Let $X$ be a $q+1$ regular connected graph,
 the the following the reciprocal polynomial of zeta function
