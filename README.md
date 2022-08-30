@@ -13,11 +13,11 @@ A $prime$ in $X$ is an equivalence class $[C]$ of prime paths, the path length i
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/187326050-c8d93df8-d35c-4b4f-a9e4-c5ef29b08945.png" width="200" height="180"> <p/>
 <p align="center"> Arbitrary orientation for $(e_1,e_2,e_3,e_4,e_5)$ </p>
 
-The Ihara zeta function is computed by the product over the equivalence class of prime paths. In Fig.1, some examples of primes are $[C]=\lbrace{{e_2}{e_3}{e_5}\rbrace, [D]=\lbrace{e_1}{e_2}{e_3}{e_4}\rbrace,$ and $[E]=\lbrace{e_1}{e_2}{e_3}{e_4}{e_1}{e_{10}}{e_4}\rbrace.$
+The Ihara zeta function is computed by the product over the equivalence class of prime paths. In Fig.1, some examples of primes are $[C]=\lbrace{{e_2}{e_3}{e_5}\rbrace,$ $[D]=\lbrace{e_1}{e_2}{e_3}{e_4}\rbrace,$ and $[E]=\lbrace{e_1}{e_2}{e_3}{e_4}{e_1}{e_{10}}{e_4}\rbrace.$
 Here, $e_10={e_5}^{-1} is the backtracking, the path lengths are $v(C)=3$, $v(D)=4$, $v(E)=7$, respectively. In this case, there are infinitely many primes.
 
 
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/187325623-ef6c34c3-656e-4ffc-b173-2135757965ce.png" width="100" height="90"> <p/>
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/187325623-ef6c34c3-656e-4ffc-b173-2135757965ce.png" width="150" height="120"> <p/>
 <p align="center"> n-cycle graph</p>
 
 <p/>
