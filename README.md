@@ -14,6 +14,7 @@ $\zeta_X\left(u\right)$
 is pole free for
 $$R_X<|u|<\sqrt{R_X}.$$
 
+# Prime Path of Graph
 A path $C=(a_1,a_2,...,a_n)$, where $a_i$ is an oriented edge of $X$, is said to have a $backtrack$ if $a_{i+1}=a_i^{-1}$, for $i=(1,...,n-1)$, and the path is said to have a $tail$ if $a_{n}=a_1^{-1}$. The path $C$ is a $closed$ $path$ or a $cycle$ when it consists of vertices $(v_1,v_2,...,v_m=v_1)$, and the closed path is $primitive$ if it has no tail or backtracking and $C\neq{D^f}$ for $f>1$, meaning the path is only allowed once.
 
 For a closed path $C$, the $equivalence$ $class$ $[C]$ is defined as 
