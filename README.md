@@ -22,7 +22,7 @@ Here, $e_10={e_5}^{-1} is the backtracking, the path lengths are $v(C)=3$, $v(D)
 
 ### Zeta Function of Graphs
 Consider a cycle graph $X$ with $n$ vertices, shown in Fig.2. There are two primitive paths, one going around clockwise once, and the other going around counterclockwise once. The corresponding zeta function will be 
-$$ \zeta_X\left(u\right)=\prod_{\left[C\right]}{({1-u^{v\left(C\right)})}^{-1}}=({1-u^{n})}^{-1}({1-u^{n})}^{-1}. $$
+$$\zeta_X\left(u\right)=\prod_{\left[C\right]}{({1-u^{v\left(C\right)})}^{-1}}$=$({1-u^{n})}^{-1}({1-u^{n})}^{-1}.$$
 This is the simplest case of the graph zeta function, where no computation of the prime class was considered. Furthermore, if there exist a prime path, then there would be a prime power decomposition into graphs.
 
 ### Ramanujan Graphs
@@ -51,7 +51,7 @@ always holds $[4]$. Here, $A$ is the adjacency matrix and $r$ is the $rank$ of t
 $$\zeta_X\left(u\right)=\exp{(\sum_{n=1}^{\infty}{N_mu^{m})}},$$
 where $N_$ is the number of closed paths in $X$ of length $m$ with no backtracking or tails. This allows irregular graphs to be considered in the hypothesis.
 
-As of now, it remains to be an open problem of whether this zeta function has a special meaning under the `graph Riemann hypothesis'? Though they are not well-understood, theories are just emerging. They may be the tools to finally solve the greatest mystery in mathematics.
+As of now, it remains to be a mystery whether this zeta function have a special meaning.
 
 <p/>
 <script type="text/javascript" charset="utf-8" src=" https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML, https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
