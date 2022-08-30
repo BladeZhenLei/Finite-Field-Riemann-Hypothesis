@@ -29,14 +29,15 @@ Consider a finitely connected $k$-regular graph $X$ with its adjacency matrix $A
 Friedman proved that a random regular graph is almost Ramanujan. After that, Miller showed that the proportion of regular graphs exactly satisfying the RH approaches 0.27 as the number of vertices approaches infinity.
 
 The complete graph $K_n$ is a Ramanujan graph, its adjacency matrix has the characteristic polynomial
-$$(\lambda-(n-1))(\lambda+1))^{n-1}.$$ The verification involves computation of circulant matrix.
+$$(\lambda-(n-1))(\lambda+1))^{n-1}.$$
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/187332359-5131ca2b-bc71-433d-a76d-bc8fb6b393c3.PNG" width="180" height="170"> <p/>
+The verification involves computation of circulant matrix.
 
 Consider the Peterson graph, which has
 $$(\lambda-3)(\lambda+2)^4(\lambda-1)^5,$$
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/187332360-47bc5e53-13f1-4ae0-b65d-4d5817294e7e.png" width="160" height="150"> <p/>
 one can easily check that
 $$2\leq2\sqrt{2}.$$
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/187332360-47bc5e53-13f1-4ae0-b65d-4d5817294e7e.png" width="160" height="150"> <p/>
 
 A random k-regular graph has $\lambda_{2}\leq{2\sqrt{(k-1)}+2log(k)+O(1)}.$ This gives the precise measurement of the graphs in terms of the eigenvalue function and show that statistically the Ramanujan graphs will have small diameters.
 
