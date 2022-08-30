@@ -1,5 +1,4 @@
 ---
-## Introduction
 The famous Riemann hypothesis is closely related to the distribution of primes. In graph theory, by defining prime paths, a graph is said to be Ramanujan if and only if its Ihara zeta function satisfies an analogy of the Riemann hypothesis. This concept was origionally introduced by Toshikazu Sunada in 1985 and developed by A.A.Terras and H.M. Stark.
 
 ###  Prime Paths
@@ -44,7 +43,7 @@ A random k-regular graph has $\lambda_{2}\leq{2\sqrt{(k-1)}+2log(k)+O(1)}.$ This
 Let $X$ be a $q+1$ regular connected graph,
 then we have the reciprocal polynomial of zeta function $$\zeta_X^{-1}\left(u\right)=\left(1-u^2\right)^{r-1}det\left(I-Au+qu^2I\right).$$ Here, $A$ is the adjacency matrix and $r$ is the $rank$ of the $fundamental$ $group$ of $X$. Extending this notion, one can find that $$\zeta_X\left(u\right)=\exp{(\sum_{n=1}^{\infty}{N_mu^{m})}},$$ where $N$ is the number of closed paths in $X$ of length $m$ with no backtracking or tails. This allows irregular graphs to be considered in the hypothesis. As of now, it remains a mystery whether this zeta function have a special meaning.
 
-## Quantum Chaos
+### Quantum Chaos
 The study of spacing of the non-trivial Riemann Zeta zeros is a GUE emsemble. 
 
 <p/>
