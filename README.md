@@ -21,12 +21,9 @@ Here, $e_10={e_5}^{-1} is the backtracking, the path lengths are $v(C)=3$, $v(D)
 <p align="center"> n-cycle graph</p>
 
 
-Consider a cycle graph $X$ with $n$ vertices, shown in Fig.2. There are two primitive paths, one going around clockwise once, and the other going around counterclockwise once. The corresponding zeta function will be$ 
-
-\[
-\zeta_X\left(u\right)=\prod_{\left[C\right]}{({1-u^{v\left(C\right)})}^{-1}}
-=({1-u^{n})}^{-1}({1-u^{n})}^{-1}.
-\]
+Consider a cycle graph $X$ with $n$ vertices, shown in Fig.2. There are two primitive paths, one going around clockwise once, and the other going around counterclockwise once. The corresponding zeta function will be 
+$$ \zeta_X\left(u\right)=\prod_{\left[C\right]}{({1-u^{v\left(C\right)})}^{-1}}
+=({1-u^{n})}^{-1}({1-u^{n})}^{-1}. $$
 This is the simplest case of the graph zeta function, where no computation of the prime class was considered. Furthermore, if there exist a prime path, then there would be a prime power decomposition into graphs.
 
 Consider a finitely connected $k$-regular graph $X$ with its adjacency matrix $A$, it is said that if $\lambda(A)\neq{\pm{k}}$, then it is a non-trivial solution, and the graph is called a $Ramanujan$ $graph$, if and only if that all $\lambda$ of $A$ satisfies $|\lambda|\leq{2\sqrt{k-1}}$.
