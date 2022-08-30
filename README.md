@@ -52,53 +52,36 @@ Consider the Peterson graph, which has
 \[(\lambda-3)(\lambda+2)^4(\lambda-1)^5,\]
 one can easily check that
 \[2\leq2\sqrt{2}.\]
-\begin{figure}[h]
-\centering
-\includegraphics[scale=0.16] {FIG 11.PNG}
-	\caption{The ${K_n}$ complete graph is $n-1$ - regular.}
-	\label{fig1}
-\end{figure}
-\begin{figure}[h]
-\centering
-\includegraphics[scale=0.13] {FIG 12.PNG}
-	\caption{The Peterson graph is $3$ - regular.}
-	\label{fig1}
-\end{figure}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\\
+
 There exist infinitely many Ramanujan graphs.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \begin{theorem}
 (Chung [5], 1989) Let $X$ be a $k$-regular graph with $n$ vertices, then
 \[diam(X(bipartite))\leq \frac{log(n-1)}{log(k/{\lambda(X)}}+1,\]
 \[diam(X(non-bipartite)\leq \frac{log(n-2)/2}{log(k/{\lambda(X)}}+2.\]
 \end{theorem}
 \hspace{-0.725cm}
-\textbf{Proof.}Let
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
 \begin{theorem}
 (Frideman [7], 1991)
 A random k-regular graph has 
 \[\lambda_{2}\leq{2\sqrt{(k-1)}+2log(k)+O(1)}.\]
 \end{theorem}
 \hspace{-0.725cm}
-\textbf{Proof.}Let
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 The above theorems give precise measurement of the graphs in terms of the eigenvalue function and show that statistically the Ramanujan graphs will have small diameters.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \begin{theorem}
 (Ihara [4], 1966)
 Let $X$ be a $q+1$ regular connected graph,
 the the following the reciprocal polynomial of zeta function
-\[\zeta_X^{-1}\left(u\right)=\left(1-u^2\right)^{r-1}det\left(I-Au+qu^2I\right)\]
+$$\zeta_X^{-1}\left(u\right)=\left(1-u^2\right)^{r-1}det\left(I-Au+qu^2I\right)$$
 always holds $[4]$. Here, $A$ is the adjacency matrix and $r$ is the $rank$ of the $fundamental$ $group$ of $X$. Extending this notion, one can find that
-\end{theorem}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Stark and Terras $[1]$ extended the notion of Ihara zeta function to arbitrary graphs
-\[\zeta_X\left(u\right)=\exp{(\sum_{n=1}^{\infty}{N_mu^{m})}},\]
+
+$$\zeta_X\left(u\right)=\exp{(\sum_{n=1}^{\infty}{N_mu^{m})}},$$
 where $N_$ is the number of closed paths in $X$ of length $m$ with no backtracking or tails. This allows irregular graphs to be considered in the hypothesis.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\par
+
 As of now, it remains to be an open problem of whether this zeta function has a special meaning under the `graph Riemann hypothesis'? Though they are not well-understood, theories are just emerging. They may be the tools to finally solve the greatest mystery in mathematics.
 
 <p/>
