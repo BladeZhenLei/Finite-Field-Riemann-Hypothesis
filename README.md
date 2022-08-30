@@ -29,51 +29,23 @@ Consider a cycle graph $X$ with $n$ vertices, shown in Fig.2. There are two prim
 \]
 This is the simplest case of the graph zeta function, where no computation of the prime class was considered. Furthermore, if there exist a prime path, then there would be a prime power decomposition into graphs.
 
-\begin{figure}[h]
-\centering
-\includegraphics[scale=0.32] {FIG 9.PNG}
-	\caption{Cycle graph with $n$ vertices.}
-	\label{fig1}
-\end{figure}
-
-
-\par
 Consider a finitely connected $k$-regular graph $X$ with its adjacency matrix $A$, it is said that if $\lambda(A)\neq{\pm{k}}$, then it is a non-trivial solution, and the graph is called a $Ramanujan$ $graph$, if and only if that all $\lambda$ of $A$ satisfies $|\lambda|\leq{2\sqrt{k-1}}$.
-\\
-\par
+
 The results from Friedman [7] proved that a random regular graph is almost Ramanujan. After that, Miller $et$ $al$. [6] showed that the percentage of regular graphs exactly satisfying the RH approaches ${27}\%$ as the number of vertices approaches infinity.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\par
-\\
+
 The complete graph $K_n$ is a Ramanujan graph, its adjacency matrix has the characteristic polynomial
-\[(\lambda-(n-1))(\lambda+1))^{n-1}.\]
+$$(\lambda-(n-1))(\lambda+1))^{n-1}.$$
 The verification of the above case [3] involves computation of circulant matrix.
 Consider the Peterson graph, which has
-\[(\lambda-3)(\lambda+2)^4(\lambda-1)^5,\]
+$$(\lambda-3)(\lambda+2)^4(\lambda-1)^5,$$
 one can easily check that
-\[2\leq2\sqrt{2}.\]
+$$2\leq2\sqrt{2}.$$
 
-There exist infinitely many Ramanujan graphs.
-
-\begin{theorem}
-(Chung [5], 1989) Let $X$ be a $k$-regular graph with $n$ vertices, then
-\[diam(X(bipartite))\leq \frac{log(n-1)}{log(k/{\lambda(X)}}+1,\]
-\[diam(X(non-bipartite)\leq \frac{log(n-2)/2}{log(k/{\lambda(X)}}+2.\]
-\end{theorem}
-\hspace{-0.725cm}
-
-
-\begin{theorem}
-(Frideman [7], 1991)
 A random k-regular graph has 
-\[\lambda_{2}\leq{2\sqrt{(k-1)}+2log(k)+O(1)}.\]
-\end{theorem}
-\hspace{-0.725cm}
+$$\lambda_{2}\leq{2\sqrt{(k-1)}+2log(k)+O(1)}.$$
 
 The above theorems give precise measurement of the graphs in terms of the eigenvalue function and show that statistically the Ramanujan graphs will have small diameters.
 
-\begin{theorem}
-(Ihara [4], 1966)
 Let $X$ be a $q+1$ regular connected graph,
 the the following the reciprocal polynomial of zeta function
 $$\zeta_X^{-1}\left(u\right)=\left(1-u^2\right)^{r-1}det\left(I-Au+qu^2I\right)$$
