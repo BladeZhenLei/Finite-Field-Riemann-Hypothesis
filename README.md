@@ -28,7 +28,7 @@ This is the simplest case of the graph zeta function, where no computation of th
 ### Ramanujan Graphs
 Consider a finitely connected $k$-regular graph $X$ with its adjacency matrix $A$, it is said that if $\lambda(A)\neq{\pm{k}}$, then it is a non-trivial solution, and the graph is called a $Ramanujan$ $graph$, if and only if that all $\lambda$ of $A$ satisfies $|\lambda|\leq{2\sqrt{k-1}}$.
 
-Friedman proved that a random regular graph is almost Ramanujan. After that, Miller $et$ $al$, he also showed that the portion of regular graphs exactly satisfying the RH approaches 27% as the number of vertices approaches infinity.
+Friedman proved that a random regular graph is almost Ramanujan. After that, Miller $et$ $al$, he also showed that the proportion of regular graphs exactly satisfying the RH approaches 0.27 as the number of vertices approaches infinity.
 
 The complete graph $K_n$ is a Ramanujan graph, its adjacency matrix has the characteristic polynomial
 $$(\lambda-(n-1))(\lambda+1))^{n-1}.$$
