@@ -19,7 +19,7 @@ $[D]=\lbrace{e_1}{e_2}{e_3}{e_4}\rbrace,$
 and 
 $[E]=\lbrace{e_1}{e_2}{e_3}{e_4}{e_1}{e_{10}}{e_4}\rbrace.$
 Here, 
-$e{_{10}}=e{{_5}^{-1}}$
+$e_10={e_5}^{-1}
 is the backtracking, the path lengths are $v(C)=3$, $v(D)=4$, $v(E)=7$, respectively. 
 In this case, there are infinitely many primes.
 
