@@ -17,7 +17,7 @@ The Ihara zeta function is computed by the product over the equivalence class of
 Here, $e_10={e_5}^{-1} is the backtracking, the path lengths are $v(C)=3$, $v(D)=4$, $v(E)=7$, respectively. In this case, there are infinitely many primes.
 
 
-<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/187325623-ef6c34c3-656e-4ffc-b173-2135757965ce.png" width="150" height="120"> <p/>
+<p align="center"><img src= "https://user-images.githubusercontent.com/66701331/187325623-ef6c34c3-656e-4ffc-b173-2135757965ce.png" width="120" height="110"> <p/>
 <p align="center"> n-cycle graph</p>
 
 <p/>
