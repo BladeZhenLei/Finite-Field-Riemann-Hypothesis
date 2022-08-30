@@ -49,7 +49,7 @@ $$\zeta_X^{-1}\left(u\right)=\left(1-u^2\right)^{r-1}det\left(I-Au+qu^2I\right)$
 always holds $[4]$. Here, $A$ is the adjacency matrix and $r$ is the $rank$ of the $fundamental$ $group$ of $X$. Extending this notion, one can find that
 
 $$\zeta_X\left(u\right)=\exp{(\sum_{n=1}^{\infty}{N_mu^{m})}},$$
-where $N_$ is the number of closed paths in $X$ of length $m$ with no backtracking or tails. This allows irregular graphs to be considered in the hypothesis.
+where $N$ is the number of closed paths in $X$ of length $m$ with no backtracking or tails. This allows irregular graphs to be considered in the hypothesis.
 
 As of now, it remains to be a mystery whether this zeta function have a special meaning.
 
