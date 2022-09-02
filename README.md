@@ -37,10 +37,9 @@ $$(\lambda-(n-1))(\lambda+1))^{n-1}.$$
 The verification involves computation of circulant matrix.
 <p/>
 
-Consider the Peterson graph, which has $(\lambda-3)(\lambda+2)^4(\lambda-1)^5,$
+Consider the Peterson graph, which has $(\lambda-3)(\lambda+2)^4(\lambda-1)^5,$ one can easily check that $2\leq2\sqrt{2}.$
 <p align="center"><img src= "https://user-images.githubusercontent.com/66701331/187332360-47bc5e53-13f1-4ae0-b65d-4d5817294e7e.png" width="160" height="150"> <p/>
 <p align="center"> Peterson graph </p>
-one can easily check that $2\leq2\sqrt{2}.$
 
 A random k-regular graph has $\lambda_{2}\leq{2\sqrt{(k-1)}+2log(k)+O(1)}.$ This gives the precise measurement of the graphs in terms of the eigenvalue function and shows that the Ramanujan graphs have small diameters.
 
